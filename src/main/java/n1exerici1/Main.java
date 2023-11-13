@@ -5,7 +5,7 @@ import java.util.Collections;
 public class Main {
     public static void main(String[] args) {
         ArrayList<String> directoryList = new ArrayList<String>();
-        String directorio = "";
+        String directorio = "   ";
         if (args.length>0)
         {
             directorio = args[0];

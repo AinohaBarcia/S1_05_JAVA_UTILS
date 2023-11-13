@@ -30,7 +30,7 @@ public class Main {
                 File archivo = files.get(i);
                 System.out.println(String.format("%s (%s) - %s",
                         archivo.getAbsolutePath(),
-                        archivo.isDirectory() ? "Carpeta" : "Archivo",
+                        archivo.isDirectory() ? "D" : "F",
                         sdf.format(archivo.lastModified())
                 ));
             }
