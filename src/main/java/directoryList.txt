@@ -1,0 +1,5 @@
+/Users/abarcia/IT ACADEMY/SPRING 1_JAVA_LENGUAGE/S1_05_JAVA_UTILS/src/main/java/../../../resources/aa (Archivo) - 23/10/2023 14:39:03
+/Users/abarcia/IT ACADEMY/SPRING 1_JAVA_LENGUAGE/S1_05_JAVA_UTILS/src/main/java/../../../resources/directory (Carpeta) - 23/10/2023 14:39:29
+/Users/abarcia/IT ACADEMY/SPRING 1_JAVA_LENGUAGE/S1_05_JAVA_UTILS/src/main/java/../../../resources/temp (Archivo) - 23/10/2023 14:39:00
+/Users/abarcia/IT ACADEMY/SPRING 1_JAVA_LENGUAGE/S1_05_JAVA_UTILS/src/main/java/../../../resources/tempo (Archivo) - 23/10/2023 14:39:09
+/Users/abarcia/IT ACADEMY/SPRING 1_JAVA_LENGUAGE/S1_05_JAVA_UTILS/src/main/java/../../../resources/directory/aja (Archivo) - 23/10/2023 14:39:29

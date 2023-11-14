@@ -35,7 +35,7 @@ public class Main extends Exception{
 
 
             try {
-                fichero = new FileWriter("/Users/abarcia/IT ACADEMY/SPRING 1_JAVA_LENGUAGE/S1_05_JAVA_UTILS/src/main/java/n1exercici3/directoryList.txt");
+                fichero = new FileWriter("directoryList.txt");
                 pw = new PrintWriter(fichero);
                 for (int i = 0; i < files.size(); i++) {
                     File archivo = files.get(i);
